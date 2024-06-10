@@ -4,25 +4,25 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://paisseon.github.io/icons/Satella.png",
+        "url": "https://LeMarc.github.io/icons/Satella.png",
         "title": "Satella",
         "package": "emt.paisseon.satella",
         "hideShadow": false
     },
 	{
-		"url": "https://paisseon.github.io/icons/Reverie.png",
+		"url": "https://LeMarc.github.io/icons/Reverie.png",
 		"title": "Reverie",
 		"package": "lilliana.reverie",
 		"hideShadow": false
 	},
     {
-        "url": "https://paisseon.github.io/icons/Erika.png",
+        "url": "https://LeMarc.github.io/icons/Erika.png",
         "title": "Erika",
         "package": "emt.paisseon.erika",
         "hideShadow": false
     },
     {
-        "url": "https://paisseon.github.io/icons/Ishtar.png",
+        "url": "https://LeMarc.github.io/icons/Ishtar.png",
         "title": "Ishtar",
         "package": "lilliana.ishtar",
         "hideShadow": false
